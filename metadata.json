@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Gujarati LaTeX Beamer Editor",
+  "description": "An application to interactively build LaTeX Beamer presentations in Gujarati. Provide prompts to modify and extend your LaTeX code step-by-step with AI assistance, including image-to-LaTeX and Gujarati PDF-to-LaTeX generation.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
